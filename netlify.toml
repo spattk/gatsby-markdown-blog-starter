@@ -1,5 +1,5 @@
 [build]
   publish = "public"
-  command = "yarn install && gatsby develop"
+  command = "npm install && npm run develop"
 [build.environment]
   YARN_VERSION = "1.7.0"
