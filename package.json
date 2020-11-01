@@ -39,7 +39,8 @@
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
     "typography-theme-stow-lake": "^0.16.19",
-    "url-join": "^4.0.1"
+    "url-join": "^4.0.1",
+    "@babel/compat-data": "^7.9.0"
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
