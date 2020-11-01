@@ -39,8 +39,7 @@
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
     "typography-theme-stow-lake": "^0.16.19",
-    "url-join": "^4.0.1",
-    "@babel/compat-data": "^7.9.0"
+    "url-join": "^4.0.1"
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
@@ -58,7 +57,8 @@
     "stylelint": "^13.2.1",
     "stylelint-config-standard-scss": "^1.1.0",
     "stylelint-scss": "^3.15.0",
-    "write-good": "^1.0.2"
+    "write-good": "^1.0.2",
+    "@babel/compat-data": "7.9.0"
   },
   "keywords": [
     "gatsby"
